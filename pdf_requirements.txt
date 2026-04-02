@@ -1,0 +1,97 @@
+YZM404_Dönem_Projesi_Aşama_1_Yönerge.md 2026-03-06
+1 / 3
+YZM 404 — Yazılım Kalite Güvencesi Dönem Projesi
+Amaç
+Bu projede, çalışan bir web uygulaması geliştirilmeniz ve sonrasında ölçülebilir kalite metrikleri ile
+iyileştirmeniz beklenmektedir. Uygulamanın yerelde çalışabilir olması yeterlidir.
+Proje Süreci ve Takvim
+Proje süreci 4 aşamadan oluşmaktadır. Aşamalar ve planlaması aşağıdaki gibidir:
+Aşama 1: Uygulama Geliştirme ve Test (4 hafta)(05.04.2026 Pazar - 23:55 son teslim)
+Aşama 2: İlk Statik Analiz (2 hafta)(26.04.2026 Pazar - 23:55 son teslim)
+Aşama 3: Kod Güncelleme (3 hafta)(17.05.2026 Pazar - 23:55 son teslim)
+Aşama 4: Son Statik Analiz (2 hafta)(31.05.2026 Pazar - 23:55 son teslim)
+Proje sunumları dönemin son 2 haftasında yapılacaktır.
+Aşama 1 — Uygulama Geliştirme ve Test
+Hedef
+Minimum gereksinimleri karşılayan bir uygulama geliştirmek ve gereksinimleri karşıladığını testlerle
+kanıtlamak.
+Beklenen Minimum Uygulama Özellikleri
+Kimlik Doğrulama (AuthN)
+Kayıt olma + Giriş + Çıkış
+Parolalar plaintext tutulamaz; güvenli hash kullanılmalıdır.
+Oturum yönetimi (session veya JWT) seçimi net olmalı ve Geliştirme Raporunda belirtilmelidir.
+Yetkilendirme (AuthZ)
+En az 2 rol: admin ve user
+En az 1 admin-only sayfa/endpoint
+İşlevsellik (CRUD)
+Tek bir "Ana Varlık" seçin (ör. Task, Note, Event, Issue)
+Bu varlık için CRUD (create/read/update/delete) işlemlerini gerçekleyin
+Sunucu tarafında doğrulamalar (ör. boş değer, uzunluk, format)
+Veri Katmanı
+---PAGEBREAK---
+YZM404_Dönem_Projesi_Aşama_1_Yönerge.md 2026-03-06
+2 / 3
+Yerel veri kaydı zorunludur.
+SQLite veya Postgres (Docker ile). Seçilen yöntem Geliştirme Raporunda belirtilmelidir.
+Şema kurulum adımı ve seed veri sağlanmalı. "Geliştirme Raporunda"" belirtilmeli.
+Çalıştırılabilirlik
+Geliştirme Raporunda belirtilen yönergeler üzerinden takip edilerek tek komutla (veya en fazla
+birkaç adımda) ayağa kalkmalı
+Varsayılan kullanıcı(lar) veya seed ile demo yapılabilmeli
+Kullanılması Beklenen Teknoloji Yığını
+Bu teknolojiler dışına çıkıldığında nedenleri ile beraber Geliştirme Raporunda belirtilmesi
+gerekmektedir. Bu teknolojiler dışına çıkıldığında projenin 2. aşamasında problemler
+yaşanabilecek olması ihtimali göz önünde bulundurulmalıdır.
+Dil: TypeScript
+Runtime: Node.js (LTS)
+Backend (API): Express (alternatif: NestJS)
+Auth: Session + httpOnly cookie (alternatif: JWT)
+Veritabanı (yerel): SQLite (alternatif: PostgreSQL + Docker)
+Test (smoke/integration): Vitest veya Jest + Supertest
+Opsiyonel UI (bonus): React + Vite vb.
+Teslimatlar
+Çalışan uygulama kodu
+Kullanıcı arayüzü zorunlu değildir. Geliştirilmesi durumunda BONUS olarak değerlendirilecektir.
+Geliştirme Raporu
+Kurulum/çalıştırma adımları
+Varsayılan kullanıcı/seed bilgisi
+Kısa mimari özet (2–5 paragraf)
+Aşama 1 açıklamaları içinde Geliştirme Raporunda belirtilmesi istenen diğer konular.
+Test kanıtı:
+Minimum test şartını sağlayan test kodları (unit + smoke)
+Test çalıştırma komutları
+Test logları
+Testler aşağıda "Testler" başlığı altında açıklanmıştır.
+Testler
+Smoke test
+Smoke test, projenin “en kritik parçaları” çalışıyor mu sorusuna hızlı cevap veren uçtan uca testlerdir. Temel
+mantık şudur: uygulamaya HTTP isteği at → gelen status code ve response beklediğin gibi mi kontrol et.
+---PAGEBREAK---
+YZM404_Dönem_Projesi_Aşama_1_Yönerge.md 2026-03-06
+3 / 3
+Minimum smoke test senaryoları (zorunlu)
+Endpoint yolları projeye göre değişebilir (örn. /api/...). Aşağıdaki maddelerdeki amaç, akışı test
+etmektir.
+<entity>, sizin seçtiğiniz “ana varlık”tır (örn. Task, Note, Event, Issue).
+1. Register (kayıt) → 201
+2. Login (giriş) → 200 (session/cookie veya token oluşumu doğrulanır)
+3. Auth gerekli endpoint: login olmadan → 401
+4. Ana varlık oluşturma (Create) (POST /<entity>) → 201
+Response’ta en az id ve zorunlu alan(lar) doğrulanır (örn. title).
+5. Ana varlık listeleme (Read-list) (GET /<entity>) → 200
+Bir önceki adımda oluşturulan kaydın listede olduğu doğrulanır.
+6. Ana varlık okuma (Read-single) (GET /<entity>/:id) → 200
+7. Ana varlık güncelleme (Update) (PATCH /<entity>/:id) → 200
+Güncellenen alanın gerçekten değiştiği doğrulanır.
+8. Ana varlık silme (Delete) (DELETE /<entity>/:id) → 204
+Sonrasında GET /<entity>/:id → 404
+9. Validation (hatalı istek): geçersiz veri ile create/update → 400
+10. Admin-only endpoint: user ile → 403, admin ile → 200
+Unit test
+Unit test, tek bir fonksiyonun/servisin doğru çalışıp çalışmadığını kontrol eden “küçük” testtir. Burada amaç;
+DB’ye gerçekten bağlanmadan, ağ isteği atmadan, hızlı çalışan testlerle iş kurallarınızı güvenceye almak.
+En az 10 adet unit test aşağıdaki başlıkları içerecek şekilde yazılmalıdır:
+Validation / iş kuralları: zorunlu alanlar, sınır değerler, format kontrolleri
+Yetkilendirme kararı: admin/user rolüne göre izin ver/engelle mantığı
+Hata durumları: bulunamadı, yetkisiz, çakışma vb. (servis seviyesinde)
+Servis katmanı mantığı: “ana varlık” CRUD iş mantığı (route/controller değil)

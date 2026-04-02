@@ -1,0 +1,7 @@
+node_modules
+dist
+src/db/database.sqlite
+.env
+.vscode
+.idea
+*.log
