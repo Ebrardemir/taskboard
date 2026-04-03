@@ -22,23 +22,6 @@ Su an calisan kisimlar:
 - Admin / user rol kontrolu calisiyor
 - Admin tum kullanicilari gorebiliyor
 
-  ### 1. Kapsamlı Hata Yönetimi (Error Handling)
-Task varlığı için geliştirilen `task.controller.ts` içerisindeki tüm CRUD operasyonları asenkron mimariye uygun olarak `try/catch` blokları ile sarmalanmıştır. Bu geliştirme ile:
-- Sunucu çökmeleri engellenerek hataların güvenli bir şekilde yönetilmesi sağlanmıştır.
-- Zod üzerinden dönen doğrulama (validation) hataları ve eksik veriler yakalanıp istemciye **400 Bad Request** olarak dönülmektedir.
-- Olmayan veya silinmiş bir göreve erişilmeye çalışıldığında servis katmanından fırlatılan özel hatalar yakalanarak **404 Not Found** koduyla sunulmaktadır.
-- Beklenmeyen tüm hatalar projenin global hata yakalayıcısına (`errorMiddleware`) yönlendirilerek güvenli hata akışı tamamlanmıştır.
-
-### 2. Birim Testleri (Unit Tests)
-Uygulamanın çekirdek iş kurallarını (business logic) güvenceye almak amacıyla `task.service.ts` için **Vitest** kullanılarak 10 adet birim (unit) testi yazılmıştır.
-- Testlerin izole bir şekilde, veritabanına ve ağa bağlanmadan çok hızlı çalışabilmesi için `task.repository.ts` mock'lanmıştır (davranışları taklit edilmiştir).
-- Başarılı oluşturma, okuma, listeleme, güncelleme ve silme senaryoları doğrulanmıştır.
-- "Görev veritabanında bulunamadı" (Olmayan ID) ve "Başkasının görevini değiştirme/silme denemesi" (Yetki Hatası) gibi kritik sınır durumları (edge cases) test edilerek sistemin açıkları kapatılmıştır.
-
-Birim testlerini çalıştırmak için şu komutu kullanabilirsiniz:
-```bash
-npm run test:unit
-
 ## Klasor Yapisi
 
 - `src/app.ts`
