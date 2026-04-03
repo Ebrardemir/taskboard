@@ -11,7 +11,9 @@
     "test": "vitest run src/tests --pool threads",
     "test:watch": "vitest src/tests --pool threads",
     "test:smoke": "vitest run src/tests/smoke --pool threads",
-    "test:unit": "vitest run src/tests/unit --pool threads"
+    "test:unit": "vitest run src/tests/unit --pool threads",
+    "client": "cd client && npm run dev",
+    "dev:all": "concurrently \"npm run dev\" \"npm run client\""
   },
   "keywords": [],
   "author": "",
@@ -34,6 +36,7 @@
     "@types/morgan": "^1.9.10",
     "@types/node": "^25.5.0",
     "@types/supertest": "^7.2.0",
+    "concurrently": "^9.2.1",
     "supertest": "^7.2.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^6.0.2",
