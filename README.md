@@ -33,6 +33,8 @@ Bu proje, Yazilim Kalite Guvencesi dersi icin gelistirilen katmanli (layered arc
 - Admin / user rol kontrolu calisiyor
 - Admin tum kullanicilari gorebiliyor
 - Admin tum gorevleri gorebiliyor (`GET /api/admin/tasks`)
+- Smoke testler (14/14) tamamlandi
+- Unit testler (11/11) tamamlandi
 
 ### Frontend
 - Giris (Login) ve Kayit (Register) sayfalari
@@ -73,6 +75,54 @@ taskboard/
         │   └── tasks/          # TaskCard, KanbanColumn, TaskModal
         └── pages/              # LoginPage, RegisterPage, DashboardPage, TasksPage, AdminPage
 ```
+
+---
+
+## Testler
+
+### Smoke Test
+Smoke testler uygulamanin kritik fonksiyonlarinin calistigini kontrol eder. 14 adet smoke test var.
+
+```bash
+npm run test:smoke
+```
+
+Test edilen senaryolar:
+- Kullanici kaydi
+- Giris ve JWT token uretimi
+- Yetkilendirme korumasi (token olmadan erisim)
+- Gorev olusturma, listeleme, okuma, guncelleme, silme
+- Validasyon kontrolleri
+- Admin rol kontrolu
+- Yanlis sifre girisi
+- Cikis ve token blacklist
+
+### Unit Test
+Unit testler tek tek fonksiyonlarin dogru calistigini test eder. 11 adet unit test var.
+
+```bash
+npm run test:unit
+```
+
+Test edilen bilesenler:
+- Auth service (kayit, giris, yetkilendirme)
+- Task service (CRUD islemleri, yetkilendirme kontrolleri)
+
+### Tum Testleri Calistir
+```bash
+npm run test
+```
+
+Beklenen sonuc:
+```
+Test Files  3 passed (3)
+Tests  25 passed (25)
+```
+
+Test kapsamı:
+- Smoke Tests: 14/14
+- Unit Tests: 11/11
+- Toplam: 25/25
 
 ---
 
