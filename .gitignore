@@ -5,3 +5,4 @@ src/db/database.sqlite
 .vscode
 .idea
 *.log
+.scannerwork/

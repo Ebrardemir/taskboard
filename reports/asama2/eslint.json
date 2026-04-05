@@ -1,0 +1,1606 @@
+[
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\eslint.config.js",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\postcss.config.js",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\App.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\api\\admin.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\api\\auth.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\api\\axios.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\api\\tasks.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\layout\\Header.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\layout\\Layout.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\layout\\Sidebar.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\tasks\\KanbanColumn.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\tasks\\TaskCard.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\tasks\\TaskModal.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\ui\\Avatar.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\ui\\Badge.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\components\\ui\\StatCard.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\context\\AuthContext.tsx",
+        "messages": [
+            {
+                "ruleId": "no-empty",
+                "severity": 2,
+                "message": "Empty block statement.",
+                "line": 38,
+                "column": 13,
+                "messageId": "unexpected",
+                "endLine": 38,
+                "endColumn": 15,
+                "suggestions": [
+                    {
+                        "messageId": "suggestComment",
+                        "data": {
+                            "type": "block"
+                        },
+                        "fix": {
+                            "range": [
+                                1359,
+                                1359
+                            ],
+                            "text": " /* empty */ "
+                        },
+                        "desc": "Add comment inside empty block statement."
+                    }
+                ]
+            },
+            {
+                "ruleId": "react-refresh/only-export-components",
+                "severity": 2,
+                "message": "Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components.",
+                "line": 52,
+                "column": 14,
+                "messageId": "namedExport",
+                "endLine": 52,
+                "endColumn": 21
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 2,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { createContext, useContext, useState } from 'react';\r\nimport type { User } from '../types';\r\nimport { authApi } from '../api/auth';\r\n\r\ninterface AuthContextType {\r\n  user: User | null;\r\n  token: string | null;\r\n  isAuthenticated: boolean;\r\n  login: (email: string, password: string) => Promise<void>;\r\n  register: (username: string, email: string, password: string) => Promise<void>;\r\n  logout: () => Promise<void>;\r\n}\r\n\r\nconst AuthContext = createContext<AuthContextType>({} as AuthContextType);\r\n\r\nexport function AuthProvider({ children }: { children: React.ReactNode }) {\r\n  const [user, setUser] = useState<User | null>(() => {\r\n    const saved = localStorage.getItem('user');\r\n    return saved ? JSON.parse(saved) : null;\r\n  });\r\n  const [token, setToken] = useState<string | null>(() => localStorage.getItem('token'));\r\n\r\n  const login = async (email: string, password: string) => {\r\n    const data = await authApi.login(email, password);\r\n    setUser(data.user);\r\n    setToken(data.token);\r\n    localStorage.setItem('token', data.token);\r\n    localStorage.setItem('user', JSON.stringify(data.user));\r\n  };\r\n\r\n  const register = async (username: string, email: string, password: string) => {\r\n    await authApi.register(username, email, password);\r\n  };\r\n\r\n  const logout = async () => {\r\n    try {\r\n      await authApi.logout();\r\n    } catch {}\r\n    setUser(null);\r\n    setToken(null);\r\n    localStorage.removeItem('token');\r\n    localStorage.removeItem('user');\r\n  };\r\n\r\n  return (\r\n    <AuthContext.Provider value={{ user, token, isAuthenticated: !!token, login, register, logout }}>\r\n      {children}\r\n    </AuthContext.Provider>\r\n  );\r\n}\r\n\r\nexport const useAuth = () => useContext(AuthContext);\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\context\\ThemeContext.tsx",
+        "messages": [
+            {
+                "ruleId": "react-refresh/only-export-components",
+                "severity": 2,
+                "message": "Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components.",
+                "line": 27,
+                "column": 14,
+                "messageId": "namedExport",
+                "endLine": 27,
+                "endColumn": 22
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 1,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { createContext, useContext, useEffect, useState } from 'react';\r\n\r\ninterface ThemeContextType {\r\n  dark: boolean;\r\n  toggle: () => void;\r\n}\r\n\r\nconst ThemeContext = createContext<ThemeContextType>({ dark: false, toggle: () => {} });\r\n\r\nexport function ThemeProvider({ children }: { children: React.ReactNode }) {\r\n  const [dark, setDark] = useState(() => {\r\n    return localStorage.getItem('theme') === 'dark';\r\n  });\r\n\r\n  useEffect(() => {\r\n    document.documentElement.classList.toggle('dark', dark);\r\n    localStorage.setItem('theme', dark ? 'dark' : 'light');\r\n  }, [dark]);\r\n\r\n  return (\r\n    <ThemeContext.Provider value={{ dark, toggle: () => setDark((d) => !d) }}>\r\n      {children}\r\n    </ThemeContext.Provider>\r\n  );\r\n}\r\n\r\nexport const useTheme = () => useContext(ThemeContext);\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\main.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\AdminPage.tsx",
+        "messages": [
+            {
+                "ruleId": "react-hooks/rules-of-hooks",
+                "severity": 2,
+                "message": "React Hook \"useEffect\" is called conditionally. React Hooks must be called in the exact same order in every component render.",
+                "line": 21,
+                "column": 3,
+                "endLine": 21,
+                "endColumn": 12
+            },
+            {
+                "ruleId": "no-empty",
+                "severity": 2,
+                "message": "Empty block statement.",
+                "line": 27,
+                "column": 15,
+                "messageId": "unexpected",
+                "endLine": 27,
+                "endColumn": 17,
+                "suggestions": [
+                    {
+                        "messageId": "suggestComment",
+                        "data": {
+                            "type": "block"
+                        },
+                        "fix": {
+                            "range": [
+                                1033,
+                                1033
+                            ],
+                            "text": " /* empty */ "
+                        },
+                        "desc": "Add comment inside empty block statement."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 2,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { useEffect, useState } from 'react';\r\nimport type { User } from '../types';\r\nimport { adminApi } from '../api/admin';\r\nimport { Header } from '../components/layout/Header';\r\nimport { StatCard } from '../components/ui/StatCard';\r\nimport { Avatar } from '../components/ui/Avatar';\r\nimport { RoleBadge } from '../components/ui/Badge';\r\nimport { Navigate } from 'react-router-dom';\r\nimport { useAuth } from '../context/AuthContext';\r\nimport { Search } from 'lucide-react';\r\n\r\nexport function AdminPage() {\r\n  const { user } = useAuth();\r\n  const [users, setUsers] = useState<User[]>([]);\r\n  const [tasks, setTasks] = useState<Task[]>([]);\r\n  const [search, setSearch] = useState('');\r\n  const [loading, setLoading] = useState(true);\r\n\r\n  if (user?.role !== 'admin') return <Navigate to=\"/dashboard\" replace />;\r\n\r\n  useEffect(() => {\r\n    const load = async () => {\r\n      try {\r\n        const [u, t] = await Promise.all([adminApi.getUsers(), adminApi.getAllTasks()]);\r\n        setUsers(u);\r\n        setTasks(t);\r\n      } catch {}\r\n      setLoading(false);\r\n    };\r\n    load();\r\n  }, []);\r\n\r\n  const taskCountFor = (userId: number) => tasks.filter((t) => t.ownerId === userId).length;\r\n\r\n  const filtered = users.filter(\r\n    (u) =>\r\n      u.username.toLowerCase().includes(search.toLowerCase()) ||\r\n      u.email.toLowerCase().includes(search.toLowerCase())\r\n  );\r\n\r\n  const adminCount = users.filter((u) => u.role === 'admin').length;\r\n\r\n  return (\r\n    <div className=\"flex flex-col h-full overflow-hidden\">\r\n      <Header title=\"Admin Paneli\">\r\n        <div className=\"relative\">\r\n          <Search size={14} className=\"absolute left-3 top-1/2 -translate-y-1/2 text-[#85B7EB]\" />\r\n          <input\r\n            value={search}\r\n            onChange={(e) => setSearch(e.target.value)}\r\n            placeholder=\"Kullanıcı ara...\"\r\n            className=\"pl-8 pr-3 py-1.5 bg-[#F0F7FF] dark:bg-[#0D1B2E] border border-[#B5D4F4] dark:border-[#1E3A5F] rounded-lg text-[13px] text-[#0C447C] dark:text-[#E8F1FF] placeholder-[#85B7EB] outline-none focus:border-[#3B82F6] transition-colors w-52\"\r\n          />\r\n        </div>\r\n      </Header>\r\n\r\n      <div className=\"flex-1 overflow-auto p-5\">\r\n        {/* Stats */}\r\n        <div className=\"grid grid-cols-3 gap-[10px] mb-5\">\r\n          <StatCard label=\"Toplam Kullanıcı\" value={users.length} sub=\"kayıtlı kullanıcılar\" />\r\n          <StatCard label=\"Admin\" value={adminCount} sub=\"yönetici hesaplar\" valueColor=\"#8B5CF6\" />\r\n          <StatCard label=\"Toplam Görev\" value={tasks.length} sub=\"tüm kullanıcılar\" valueColor=\"#3B82F6\" />\r\n        </div>\r\n\r\n        {/* Users table */}\r\n        <div className=\"bg-white dark:bg-[#122040] border border-[#B5D4F4] dark:border-[#1E3A5F] rounded-xl overflow-hidden\">\r\n          <table className=\"w-full\">\r\n            <thead>\r\n              <tr className=\"border-b border-[#B5D4F4] dark:border-[#1E3A5F]\">\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Kullanıcı</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">E-posta</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Rol</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Görev</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Kayıt Tarihi</th>\r\n              </tr>\r\n            </thead>\r\n            <tbody>\r\n              {loading ? (\r\n                <tr>\r\n                  <td colSpan={5} className=\"text-center py-8 text-[13px] text-[#85B7EB]\">Yükleniyor...</td>\r\n                </tr>\r\n              ) : filtered.length === 0 ? (\r\n                <tr>\r\n                  <td colSpan={5} className=\"text-center py-8 text-[13px] text-[#85B7EB]\">Kullanıcı bulunamadı.</td>\r\n                </tr>\r\n              ) : (\r\n                filtered.map((u) => (\r\n                  <tr key={u.id} className=\"border-b border-[#B5D4F4]/50 dark:border-[#1E3A5F]/50 hover:bg-[#F0F7FF] dark:hover:bg-[#0D1B2E]/50 transition-colors\">\r\n                    <td className=\"px-4 py-3\">\r\n                      <div className=\"flex items-center gap-2.5\">\r\n                        <Avatar name={u.username} size={28} />\r\n                        <span className=\"text-[13px] font-medium text-[#0C447C] dark:text-[#E8F1FF]\">{u.username}</span>\r\n                      </div>\r\n                    </td>\r\n                    <td className=\"px-4 py-3 text-[13px] text-[#378ADD] dark:text-[#7BA3D4]\">{u.email}</td>\r\n                    <td className=\"px-4 py-3\"><RoleBadge role={u.role} /></td>\r\n                    <td className=\"px-4 py-3 text-[13px] text-[#0C447C] dark:text-[#E8F1FF]\">{taskCountFor(u.id)}</td>\r\n                    <td className=\"px-4 py-3 text-[12px] text-[#85B7EB] dark:text-[#4A6FA5]\">\r\n                      {new Date(u.created_at).toLocaleDateString('tr-TR')}\r\n                    </td>\r\n                  </tr>\r\n                ))\r\n              )}\r\n            </tbody>\r\n          </table>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  );\r\n}\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\DashboardPage.tsx",
+        "messages": [
+            {
+                "ruleId": "no-empty",
+                "severity": 2,
+                "message": "Empty block statement.",
+                "line": 20,
+                "column": 13,
+                "messageId": "unexpected",
+                "endLine": 20,
+                "endColumn": 15,
+                "suggestions": [
+                    {
+                        "messageId": "suggestComment",
+                        "data": {
+                            "type": "block"
+                        },
+                        "fix": {
+                            "range": [
+                                842,
+                                842
+                            ],
+                            "text": " /* empty */ "
+                        },
+                        "desc": "Add comment inside empty block statement."
+                    }
+                ]
+            },
+            {
+                "ruleId": "react-hooks/set-state-in-effect",
+                "severity": 2,
+                "message": "Error: Calling setState synchronously within an effect can trigger cascading renders\n\nEffects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:\n* Update external systems with the latest state from React.\n* Subscribe for updates from some external system, calling setState in a callback function when external state changes.\n\nCalling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).\n\nC:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\DashboardPage.tsx:24:21\n  22 |   };\n  23 |\n> 24 |   useEffect(() => { fetchTasks(); }, []);\n     |                     ^^^^^^^^^^ Avoid calling setState() directly within an effect\n  25 |\n  26 |   const openCreate = (status: TaskStatus = 'todo') => {\n  27 |     setEditingTask(undefined);",
+                "line": 24,
+                "column": 21,
+                "endLine": 24,
+                "endColumn": 31
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 2,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { useEffect, useState } from 'react';\r\nimport type { Task, TaskStatus } from '../types';\r\nimport { tasksApi } from '../api/tasks';\r\nimport { Header } from '../components/layout/Header';\r\nimport { StatCard } from '../components/ui/StatCard';\r\nimport { KanbanColumn } from '../components/tasks/KanbanColumn';\r\nimport { TaskModal } from '../components/tasks/TaskModal';\r\n\r\nexport function DashboardPage() {\r\n  const [tasks, setTasks] = useState<Task[]>([]);\r\n  const [loading, setLoading] = useState(true);\r\n  const [modalOpen, setModalOpen] = useState(false);\r\n  const [editingTask, setEditingTask] = useState<Task | undefined>();\r\n  const [defaultStatus, setDefaultStatus] = useState<TaskStatus>('todo');\r\n\r\n  const fetchTasks = async () => {\r\n    try {\r\n      const data = await tasksApi.getAll();\r\n      setTasks(data);\r\n    } catch {}\r\n    setLoading(false);\r\n  };\r\n\r\n  useEffect(() => { fetchTasks(); }, []);\r\n\r\n  const openCreate = (status: TaskStatus = 'todo') => {\r\n    setEditingTask(undefined);\r\n    setDefaultStatus(status);\r\n    setModalOpen(true);\r\n  };\r\n\r\n  const openEdit = (task: Task) => {\r\n    setEditingTask(task);\r\n    setModalOpen(true);\r\n  };\r\n\r\n  const handleSave = async (data: { title: string; description: string; status: TaskStatus }) => {\r\n    if (editingTask) {\r\n      const updated = await tasksApi.update(editingTask.id, data);\r\n      setTasks((prev) => prev.map((t) => (t.id === updated.id ? updated : t)));\r\n    } else {\r\n      const created = await tasksApi.create({ ...data, status: data.status || defaultStatus });\r\n      setTasks((prev) => [...prev, created]);\r\n    }\r\n  };\r\n\r\n  const handleDelete = async (id: number) => {\r\n    if (!confirm('Bu görevi silmek istediğinize emin misiniz?')) return;\r\n    await tasksApi.delete(id);\r\n    setTasks((prev) => prev.filter((t) => t.id !== id));\r\n  };\r\n\r\n  const byStatus = (status: TaskStatus) => tasks.filter((t) => t.status === status);\r\n\r\n  const inProgress = byStatus('in_progress');\r\n  const done = byStatus('done');\r\n\r\n  return (\r\n    <div className=\"flex flex-col h-full overflow-hidden\">\r\n      <Header title=\"Dashboard\" showNewTask onNewTask={() => openCreate()} />\r\n\r\n      <div className=\"flex-1 overflow-auto p-5\">\r\n        {/* Stat cards */}\r\n        <div className=\"grid grid-cols-3 gap-[10px] mb-5\">\r\n          <StatCard label=\"Toplam Görev\" value={tasks.length} sub=\"tüm görevler\" />\r\n          <StatCard label=\"Devam Eden\" value={inProgress.length} sub=\"aktif görevler\" valueColor=\"#F59E0B\" />\r\n          <StatCard label=\"Tamamlanan\" value={done.length} sub=\"biten görevler\" valueColor=\"#10B981\" />\r\n        </div>\r\n\r\n        {/* Kanban */}\r\n        {loading ? (\r\n          <div className=\"flex items-center justify-center h-40 text-[#85B7EB] text-[13px]\">Yükleniyor...</div>\r\n        ) : (\r\n          <div className=\"flex gap-3 h-[calc(100vh-260px)] overflow-x-auto\">\r\n            {(['todo', 'in_progress', 'done'] as TaskStatus[]).map((status) => (\r\n              <KanbanColumn\r\n                key={status}\r\n                status={status}\r\n                tasks={byStatus(status)}\r\n                onEdit={openEdit}\r\n                onDelete={handleDelete}\r\n                onAddTask={openCreate}\r\n              />\r\n            ))}\r\n          </div>\r\n        )}\r\n      </div>\r\n\r\n      {modalOpen && (\r\n        <TaskModal\r\n          task={editingTask}\r\n          onClose={() => setModalOpen(false)}\r\n          onSave={handleSave}\r\n        />\r\n      )}\r\n    </div>\r\n  );\r\n}\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\LoginPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\RegisterPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\TasksPage.tsx",
+        "messages": [
+            {
+                "ruleId": "no-empty",
+                "severity": 2,
+                "message": "Empty block statement.",
+                "line": 28,
+                "column": 13,
+                "messageId": "unexpected",
+                "endLine": 28,
+                "endColumn": 15,
+                "suggestions": [
+                    {
+                        "messageId": "suggestComment",
+                        "data": {
+                            "type": "block"
+                        },
+                        "fix": {
+                            "range": [
+                                1117,
+                                1117
+                            ],
+                            "text": " /* empty */ "
+                        },
+                        "desc": "Add comment inside empty block statement."
+                    }
+                ]
+            },
+            {
+                "ruleId": "react-hooks/set-state-in-effect",
+                "severity": 2,
+                "message": "Error: Calling setState synchronously within an effect can trigger cascading renders\n\nEffects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:\n* Update external systems with the latest state from React.\n* Subscribe for updates from some external system, calling setState in a callback function when external state changes.\n\nCalling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).\n\nC:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\pages\\TasksPage.tsx:32:21\n  30 |   };\n  31 |\n> 32 |   useEffect(() => { fetchTasks(); }, []);\n     |                     ^^^^^^^^^^ Avoid calling setState() directly within an effect\n  33 |\n  34 |   const openCreate = () => { setEditingTask(undefined); setModalOpen(true); };\n  35 |   const openEdit = (task: Task) => { setEditingTask(task); setModalOpen(true); };",
+                "line": 32,
+                "column": 21,
+                "endLine": 32,
+                "endColumn": 31
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 2,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { useEffect, useState } from 'react';\r\nimport type { Task, TaskStatus } from '../types';\r\nimport { tasksApi } from '../api/tasks';\r\nimport { Header } from '../components/layout/Header';\r\nimport { StatusBadge } from '../components/ui/Badge';\r\nimport { TaskModal } from '../components/tasks/TaskModal';\r\nimport { Pencil, Trash2, Search } from 'lucide-react';\r\n\r\nconst STATUS_FILTERS: { value: TaskStatus | 'all'; label: string }[] = [\r\n  { value: 'all', label: 'Tümü' },\r\n  { value: 'todo', label: 'Yapılacak' },\r\n  { value: 'in_progress', label: 'Devam Eden' },\r\n  { value: 'done', label: 'Tamamlandı' },\r\n];\r\n\r\nexport function TasksPage() {\r\n  const [tasks, setTasks] = useState<Task[]>([]);\r\n  const [loading, setLoading] = useState(true);\r\n  const [filter, setFilter] = useState<TaskStatus | 'all'>('all');\r\n  const [search, setSearch] = useState('');\r\n  const [modalOpen, setModalOpen] = useState(false);\r\n  const [editingTask, setEditingTask] = useState<Task | undefined>();\r\n\r\n  const fetchTasks = async () => {\r\n    try {\r\n      const data = await tasksApi.getAll();\r\n      setTasks(data);\r\n    } catch {}\r\n    setLoading(false);\r\n  };\r\n\r\n  useEffect(() => { fetchTasks(); }, []);\r\n\r\n  const openCreate = () => { setEditingTask(undefined); setModalOpen(true); };\r\n  const openEdit = (task: Task) => { setEditingTask(task); setModalOpen(true); };\r\n\r\n  const handleSave = async (data: { title: string; description: string; status: TaskStatus }) => {\r\n    if (editingTask) {\r\n      const updated = await tasksApi.update(editingTask.id, data);\r\n      setTasks((prev) => prev.map((t) => (t.id === updated.id ? updated : t)));\r\n    } else {\r\n      const created = await tasksApi.create(data);\r\n      setTasks((prev) => [...prev, created]);\r\n    }\r\n  };\r\n\r\n  const handleDelete = async (id: number) => {\r\n    if (!confirm('Bu görevi silmek istiyor musunuz?')) return;\r\n    await tasksApi.delete(id);\r\n    setTasks((prev) => prev.filter((t) => t.id !== id));\r\n  };\r\n\r\n  const filtered = tasks.filter((t) => {\r\n    if (filter !== 'all' && t.status !== filter) return false;\r\n    if (search && !t.title.toLowerCase().includes(search.toLowerCase())) return false;\r\n    return true;\r\n  });\r\n\r\n  return (\r\n    <div className=\"flex flex-col h-full overflow-hidden\">\r\n      <Header title=\"Görevler\" showNewTask onNewTask={openCreate} />\r\n\r\n      <div className=\"flex-1 overflow-auto p-5\">\r\n        {/* Filters */}\r\n        <div className=\"flex items-center gap-3 mb-4\">\r\n          <div className=\"relative flex-1 max-w-xs\">\r\n            <Search size={14} className=\"absolute left-3 top-1/2 -translate-y-1/2 text-[#85B7EB]\" />\r\n            <input\r\n              value={search}\r\n              onChange={(e) => setSearch(e.target.value)}\r\n              placeholder=\"Görev ara...\"\r\n              className=\"w-full pl-8 pr-3 py-2 bg-white dark:bg-[#122040] border border-[#B5D4F4] dark:border-[#1E3A5F] rounded-lg text-[13px] text-[#0C447C] dark:text-[#E8F1FF] placeholder-[#85B7EB] outline-none focus:border-[#3B82F6] transition-colors\"\r\n            />\r\n          </div>\r\n          <div className=\"flex gap-1\">\r\n            {STATUS_FILTERS.map((f) => (\r\n              <button\r\n                key={f.value}\r\n                onClick={() => setFilter(f.value)}\r\n                className={`px-3 py-1.5 rounded-lg text-[12px] font-medium transition-colors ${\r\n                  filter === f.value\r\n                    ? 'bg-[#3B82F6] text-white'\r\n                    : 'bg-white dark:bg-[#122040] border border-[#B5D4F4] dark:border-[#1E3A5F] text-[#185FA5] dark:text-[#7BA3D4] hover:border-[#3B82F6]'\r\n                }`}\r\n              >\r\n                {f.label}\r\n              </button>\r\n            ))}\r\n          </div>\r\n        </div>\r\n\r\n        {/* Table */}\r\n        <div className=\"bg-white dark:bg-[#122040] border border-[#B5D4F4] dark:border-[#1E3A5F] rounded-xl overflow-hidden\">\r\n          <table className=\"w-full\">\r\n            <thead>\r\n              <tr className=\"border-b border-[#B5D4F4] dark:border-[#1E3A5F]\">\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Başlık</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Açıklama</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Durum</th>\r\n                <th className=\"text-left px-4 py-3 text-[12px] font-medium text-[#185FA5] dark:text-[#7BA3D4]\">Oluşturulma</th>\r\n                <th className=\"px-4 py-3\" />\r\n              </tr>\r\n            </thead>\r\n            <tbody>\r\n              {loading ? (\r\n                <tr>\r\n                  <td colSpan={5} className=\"text-center py-8 text-[13px] text-[#85B7EB]\">Yükleniyor...</td>\r\n                </tr>\r\n              ) : filtered.length === 0 ? (\r\n                <tr>\r\n                  <td colSpan={5} className=\"text-center py-8 text-[13px] text-[#85B7EB]\">Görev bulunamadı.</td>\r\n                </tr>\r\n              ) : (\r\n                filtered.map((task) => (\r\n                  <tr key={task.id} className=\"border-b border-[#B5D4F4]/50 dark:border-[#1E3A5F]/50 hover:bg-[#F0F7FF] dark:hover:bg-[#0D1B2E]/50 transition-colors\">\r\n                    <td className=\"px-4 py-3 text-[13px] font-medium text-[#0C447C] dark:text-[#E8F1FF]\">{task.title}</td>\r\n                    <td className=\"px-4 py-3 text-[12px] text-[#378ADD] dark:text-[#7BA3D4] max-w-xs\">\r\n                      <span className=\"line-clamp-1\">{task.description}</span>\r\n                    </td>\r\n                    <td className=\"px-4 py-3\"><StatusBadge status={task.status} /></td>\r\n                    <td className=\"px-4 py-3 text-[12px] text-[#85B7EB] dark:text-[#4A6FA5]\">\r\n                      {new Date(task.createdAt).toLocaleDateString('tr-TR')}\r\n                    </td>\r\n                    <td className=\"px-4 py-3\">\r\n                      <div className=\"flex items-center justify-end gap-1\">\r\n                        <button onClick={() => openEdit(task)} className=\"p-1.5 rounded text-[#85B7EB] hover:text-[#3B82F6] transition-colors\">\r\n                          <Pencil size={13} />\r\n                        </button>\r\n                        <button onClick={() => handleDelete(task.id)} className=\"p-1.5 rounded text-[#85B7EB] hover:text-red-500 transition-colors\">\r\n                          <Trash2 size={13} />\r\n                        </button>\r\n                      </div>\r\n                    </td>\r\n                  </tr>\r\n                ))\r\n              )}\r\n            </tbody>\r\n          </table>\r\n        </div>\r\n      </div>\r\n\r\n      {modalOpen && (\r\n        <TaskModal\r\n          task={editingTask}\r\n          onClose={() => setModalOpen(false)}\r\n          onSave={handleSave}\r\n        />\r\n      )}\r\n    </div>\r\n  );\r\n}\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\src\\types\\index.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\tailwind.config.js",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\client\\vite.config.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\eslint.config.mts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\app.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\config\\db.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\config\\env.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\db\\init.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 8,
+                "column": 63,
+                "messageId": "unexpectedAny",
+                "endLine": 8,
+                "endColumn": 66,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                264,
+                                267
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                264,
+                                267
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 1,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import fs from \"fs\";\r\nimport path from \"path\";\r\n\r\nimport { db } from \"../config/db\";\r\n\r\nconst getTableColumns = (tableName: string): Promise<string[]> => {\r\n  return new Promise((resolve, reject) => {\r\n    db.all(`PRAGMA table_info(${tableName})`, [], (err, rows: any[]) => {\r\n      if (err) {\r\n        reject(err);\r\n        return;\r\n      }\r\n\r\n      resolve(rows.map((row) => String(row.name)));\r\n    });\r\n  });\r\n};\r\n\r\nconst exec = (sql: string): Promise<void> => {\r\n  return new Promise((resolve, reject) => {\r\n    db.exec(sql, (err) => {\r\n      if (err) {\r\n        reject(err);\r\n        return;\r\n      }\r\n\r\n      resolve();\r\n    });\r\n  });\r\n};\r\n\r\nconst syncRevokedTokensTable = async (): Promise<void> => {\r\n  const columns = await getTableColumns(\"revoked_tokens\");\r\n\r\n  if (columns.length === 0) {\r\n    return;\r\n  }\r\n\r\n  const expectedColumns = [\"id\", \"token_hash\", \"created_at\"];\r\n  const isAlreadySynced =\r\n    columns.length === expectedColumns.length &&\r\n    expectedColumns.every((column, index) => columns[index] === column);\r\n\r\n  if (isAlreadySynced) {\r\n    return;\r\n  }\r\n\r\n  await exec(`\r\n    BEGIN TRANSACTION;\r\n\r\n    CREATE TABLE IF NOT EXISTS revoked_tokens_new (\r\n      id INTEGER PRIMARY KEY AUTOINCREMENT,\r\n      token_hash TEXT NOT NULL UNIQUE,\r\n      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP\r\n    );\r\n\r\n    INSERT OR IGNORE INTO revoked_tokens_new (id, token_hash, created_at)\r\n    SELECT id, token_hash, created_at\r\n    FROM revoked_tokens;\r\n\r\n    DROP TABLE revoked_tokens;\r\n    ALTER TABLE revoked_tokens_new RENAME TO revoked_tokens;\r\n\r\n    COMMIT;\r\n  `);\r\n};\r\n\r\nexport const initializeDatabase = async (): Promise<void> => {\r\n  const schemaPath = path.resolve(__dirname, \"schema.sql\");\r\n  const schema = fs.readFileSync(schemaPath, \"utf-8\");\r\n\r\n  await exec(schema);\r\n  await syncRevokedTokensTable();\r\n\r\n  console.log(\"Database schema initialized.\");\r\n};",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\db\\run-seed.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\db\\seed.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\express.d.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\middleware\\auth.middleware.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\middleware\\error.middleware.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-unused-vars",
+                "severity": 2,
+                "message": "'_next' is defined but never used.",
+                "line": 10,
+                "column": 3,
+                "messageId": "unusedVar",
+                "endLine": 10,
+                "endColumn": 8
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 1,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import type { NextFunction, Request, Response } from \"express\";\r\nimport { ZodError } from \"zod\";\r\n\r\nimport { AppError } from \"../utils/app-error\";\r\n\r\nexport const errorMiddleware = (\r\n  error: Error,\r\n  _req: Request,\r\n  res: Response,\r\n  _next: NextFunction,\r\n) => {\r\n  if (error instanceof ZodError) {\r\n    return res.status(400).json({\r\n      success: false,\r\n      message: \"Validation failed\",\r\n      issues: error.issues,\r\n    });\r\n  }\r\n\r\n  if (error instanceof AppError) {\r\n    return res.status(error.statusCode).json({\r\n      success: false,\r\n      message: error.message,\r\n      ...(error.details ? { details: error.details } : {}),\r\n    });\r\n  }\r\n\r\n  return res.status(500).json({\r\n    success: false,\r\n    message: \"Internal server error\",\r\n  });\r\n};",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\middleware\\role.middleware.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\admin\\admin.controller.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\admin\\admin.routes.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\auth\\auth.controller.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\auth\\auth.routes.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\auth\\auth.service.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\auth\\auth.validation.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\tasks\\task.controller.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 24,
+                "column": 21,
+                "messageId": "unexpectedAny",
+                "endLine": 24,
+                "endColumn": 24,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                840,
+                                843
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                840,
+                                843
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 48,
+                "column": 21,
+                "messageId": "unexpectedAny",
+                "endLine": 48,
+                "endColumn": 24,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                1625,
+                                1628
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                1625,
+                                1628
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 61,
+                "column": 21,
+                "messageId": "unexpectedAny",
+                "endLine": 61,
+                "endColumn": 24,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                2031,
+                                2034
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                2031,
+                                2034
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 3,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import type { NextFunction,Request, Response } from \"express\";\r\n\r\nimport type { AuthUser } from \"../../types/auth.types\";\r\nimport { taskService } from \"./task.service\";\r\nimport { createTaskSchema, updateTaskSchema } from \"./task.validation\";\r\n\r\nconst getUser = (req: Request): AuthUser => req.user as AuthUser;\r\n\r\nexport const taskController = {\r\n  async list(req: Request, res: Response, next: NextFunction) {\r\n    try {\r\n      const tasks = await taskService.list(getUser(req));\r\n      return res.status(200).json(tasks);\r\n    } catch (error) {\r\n      next(error);\r\n    }\r\n  },\r\n\r\n  async getSingle(req: Request, res: Response, next: NextFunction) {\r\n    try {\r\n      const taskId = Number(req.params.id);\r\n      const task = await taskService.getById(getUser(req), taskId);\r\n      return res.status(200).json(task);\r\n    } catch (error: any) {\r\n      if (error.message === \"Task not found\") {\r\n        return res.status(404).json({ message: \"Task not found\" });\r\n      }\r\n      next(error);\r\n    }\r\n  },\r\n\r\n  async create(req: Request, res: Response, next: NextFunction) {\r\n    try {\r\n      const input = createTaskSchema.parse(req.body);\r\n      const task = await taskService.create(getUser(req), input);\r\n      return res.status(201).json(task);\r\n    } catch (error) {\r\n      next(error);\r\n    }\r\n  },\r\n\r\n  async update(req: Request, res: Response, next: NextFunction) {\r\n    try {\r\n      const taskId = Number(req.params.id);\r\n      const input = updateTaskSchema.parse(req.body);\r\n      const task = await taskService.update(getUser(req), taskId, input);\r\n      return res.status(200).json(task);\r\n    } catch (error: any) {\r\n      if (error.message === \"Task not found\") {\r\n        return res.status(404).json({ message: \"Task not found\" });\r\n      }\r\n      next(error);\r\n    }\r\n  },\r\n\r\n  async remove(req: Request, res: Response, next: NextFunction) {\r\n    try {\r\n      const taskId = Number(req.params.id);\r\n      await taskService.remove(getUser(req), taskId);\r\n      return res.status(204).send();\r\n    } catch (error: any) {\r\n      if (error.message === \"Task not found\") {\r\n        return res.status(404).json({ message: \"Task not found\" });\r\n      }\r\n      next(error);\r\n    }\r\n  },\r\n};\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\tasks\\task.routes.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\tasks\\task.service.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\modules\\tasks\\task.validation.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\repositories\\note.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\repositories\\revoked-token.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\repositories\\task.repository.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 9,
+                "column": 26,
+                "messageId": "unexpectedAny",
+                "endLine": 9,
+                "endColumn": 29,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                173,
+                                176
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                173,
+                                176
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 60,
+                "column": 31,
+                "messageId": "unexpectedAny",
+                "endLine": 60,
+                "endColumn": 34,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                1466,
+                                1469
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                1466,
+                                1469
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 69,
+                "column": 31,
+                "messageId": "unexpectedAny",
+                "endLine": 69,
+                "endColumn": 34,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                1741,
+                                1744
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                1741,
+                                1744
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 81,
+                "column": 30,
+                "messageId": "unexpectedAny",
+                "endLine": 81,
+                "endColumn": 33,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                2059,
+                                2062
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                2059,
+                                2062
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 4,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { db } from \"../config/db\";\r\nimport type {\r\n  CreateTaskInput,\r\n  Task,\r\n  TaskStatus,\r\n  UpdateTaskInput,\r\n} from \"../types/task.types\";\r\n\r\nconst mapTaskRow = (row: any): Task => ({\r\n  id: Number(row.id),\r\n  title: String(row.title),\r\n  description: String(row.description),\r\n  status: row.status as TaskStatus,\r\n  ownerId: Number(row.owner_id),\r\n  createdAt: String(row.created_at),\r\n  updatedAt: String(row.updated_at),\r\n});\r\n\r\nconst getOne = <T>(sql: string, params: unknown[] = []): Promise<T | undefined> =>\r\n  new Promise((resolve, reject) => {\r\n    db.get(sql, params, (error, row) => {\r\n      if (error) {\r\n        reject(error);\r\n        return;\r\n      }\r\n\r\n      resolve(row as T | undefined);\r\n    });\r\n  });\r\n\r\nconst getAll = <T>(sql: string, params: unknown[] = []): Promise<T[]> =>\r\n  new Promise((resolve, reject) => {\r\n    db.all(sql, params, (error, rows) => {\r\n      if (error) {\r\n        reject(error);\r\n        return;\r\n      }\r\n\r\n      resolve((rows as T[]) ?? []);\r\n    });\r\n  });\r\n\r\nconst run = (\r\n  sql: string,\r\n  params: unknown[] = [],\r\n): Promise<{ lastID: number; changes: number }> =>\r\n  new Promise((resolve, reject) => {\r\n    db.run(sql, params, function onRun(error) {\r\n      if (error) {\r\n        reject(error);\r\n        return;\r\n      }\r\n\r\n      resolve({ lastID: this.lastID, changes: this.changes });\r\n    });\r\n  });\r\n\r\nexport const taskRepository = {\r\n  async findAll(): Promise<Task[]> {\r\n    const rows = await getAll<any>(\r\n      `SELECT id, title, description, status, owner_id, created_at, updated_at\r\n       FROM tasks\r\n       ORDER BY id DESC`,\r\n    );\r\n    return rows.map(mapTaskRow);\r\n  },\r\n\r\n  async findAllByOwnerId(ownerId: number): Promise<Task[]> {\r\n    const rows = await getAll<any>(\r\n      `SELECT id, title, description, status, owner_id, created_at, updated_at\r\n       FROM tasks\r\n       WHERE owner_id = ?\r\n       ORDER BY id DESC`,\r\n      [ownerId],\r\n    );\r\n\r\n    return rows.map(mapTaskRow);\r\n  },\r\n\r\n  async findById(id: number): Promise<Task | undefined> {\r\n    const row = await getOne<any>(\r\n      `SELECT id, title, description, status, owner_id, created_at, updated_at\r\n       FROM tasks\r\n       WHERE id = ?`,\r\n      [id],\r\n    );\r\n\r\n    return row ? mapTaskRow(row) : undefined;\r\n  },\r\n\r\n  async create(ownerId: number, input: CreateTaskInput): Promise<Task> {\r\n    const result = await run(\r\n      `INSERT INTO tasks (title, description, status, owner_id)\r\n       VALUES (?, ?, ?, ?)`,\r\n      [input.title, input.description, input.status ?? \"todo\", ownerId],\r\n    );\r\n\r\n    const task = await this.findById(result.lastID);\r\n\r\n    if (!task) {\r\n      throw new Error(\"Task could not be created\");\r\n    }\r\n\r\n    return task;\r\n  },\r\n\r\n  async update(id: number, input: UpdateTaskInput): Promise<Task | undefined> {\r\n    const currentTask = await this.findById(id);\r\n\r\n    if (!currentTask) {\r\n      return undefined;\r\n    }\r\n\r\n    await run(\r\n      `UPDATE tasks\r\n       SET title = ?,\r\n           description = ?,\r\n           status = ?,\r\n           updated_at = CURRENT_TIMESTAMP\r\n       WHERE id = ?`,\r\n      [\r\n        input.title ?? currentTask.title,\r\n        input.description ?? currentTask.description,\r\n        input.status ?? currentTask.status,\r\n        id,\r\n      ],\r\n    );\r\n\r\n    return this.findById(id);\r\n  },\r\n\r\n  async delete(id: number): Promise<boolean> {\r\n    const result = await run(\"DELETE FROM tasks WHERE id = ?\", [id]);\r\n\r\n    return result.changes > 0;\r\n  },\r\n};",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\repositories\\user.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\server.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\tests\\smoke\\smoke.test.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 87,
+                "column": 48,
+                "messageId": "unexpectedAny",
+                "endLine": 87,
+                "endColumn": 51,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                3004,
+                                3007
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                3004,
+                                3007
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 1,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { describe, it, expect } from \"vitest\";\r\nimport request from \"supertest\";\r\nimport app from \"../../app\";\r\n\r\ndescribe(\"Smoke Tests - Critical Application Flows\", () => {\r\n  let authToken = \"\";\r\n  let adminToken = \"\";\r\n  let taskId = 0;\r\n\r\n  \r\n  const timestamp = Date.now();\r\n  const testUserEmail = `smoketest${timestamp}@example.com`;\r\n\r\n  // 1. Register (kayıt) → 201\r\n  it(\"1. Register should create a new user with 201 status\", async () => {\r\n    const response = await request(app)\r\n      .post(\"/api/auth/register\")\r\n      .send({\r\n        username: `smokeuser${timestamp}`,\r\n        email: testUserEmail,\r\n        password: \"SecurePass123!\",\r\n      });\r\n\r\n    expect(response.status).toBe(201);\r\n    expect(response.body.data).toHaveProperty(\"id\");\r\n    expect(response.body.data).toHaveProperty(\"username\");\r\n    expect(response.body.data).toHaveProperty(\"email\", testUserEmail);\r\n    expect(response.body.data).toHaveProperty(\"role\", \"user\");\r\n  });\r\n\r\n  // 2. Login (giriş) → 200 (token oluşumu doğrulanır)\r\n  it(\"2. Login should return 200 with JWT token\", async () => {\r\n    const response = await request(app)\r\n      .post(\"/api/auth/login\")\r\n      .send({\r\n        email: testUserEmail,\r\n        password: \"SecurePass123!\",\r\n      });\r\n\r\n    expect(response.status).toBe(200);\r\n    expect(response.body.data).toHaveProperty(\"token\");\r\n    expect(response.body.data).toHaveProperty(\"user\");\r\n    expect(response.body.data.user).toHaveProperty(\"id\");\r\n    expect(typeof response.body.data.token).toBe(\"string\");\r\n    \r\n    authToken = response.body.data.token;\r\n  });\r\n\r\n  // 3. Auth gerekli endpoint: login olmadan → 401\r\n  it(\"3. Accessing protected endpoint without token should return 401\", async () => {\r\n    const response = await request(app)\r\n      .get(\"/api/tasks\");\r\n\r\n    expect(response.status).toBe(401);\r\n  });\r\n\r\n  // 4. Ana varlık oluşturma (Create) (POST /tasks) → 201\r\n  it(\"4. Create task should return 201 with task details\", async () => {\r\n    const response = await request(app)\r\n      .post(\"/api/tasks\")\r\n      .set(\"Authorization\", `Bearer ${authToken}`)\r\n      .send({\r\n        title: \"Test Smoke Task\",\r\n        description: \"This is a smoke test task\",\r\n        status: \"todo\",\r\n      });\r\n\r\n    expect(response.status).toBe(201);\r\n    expect(response.body).toHaveProperty(\"id\");\r\n    expect(response.body).toHaveProperty(\"title\", \"Test Smoke Task\");\r\n    expect(response.body).toHaveProperty(\"status\", \"todo\");\r\n    \r\n    taskId = response.body.id;\r\n  });\r\n\r\n  // 5. Ana varlık listeleme (Read-list) (GET /tasks) → 200\r\n  it(\"5. List tasks should return 200 with tasks array\", async () => {\r\n    const response = await request(app)\r\n      .get(\"/api/tasks\")\r\n      .set(\"Authorization\", `Bearer ${authToken}`);\r\n\r\n    expect(response.status).toBe(200);\r\n    expect(Array.isArray(response.body)).toBe(true);\r\n    expect(response.body.length).toBeGreaterThan(0);\r\n    \r\n    // Check if created task is in list\r\n    const createdTask = response.body.find((t: any) => t.id === taskId);\r\n    expect(createdTask).toBeDefined();\r\n  });\r\n\r\n  // 6. Ana varlık okuma (Read-single) (GET /tasks/:id) → 200\r\n  it(\"6. Get single task should return 200 with task details\", async () => {\r\n    const response = await request(app)\r\n      .get(`/api/tasks/${taskId}`)\r\n      .set(\"Authorization\", `Bearer ${authToken}`);\r\n\r\n    expect(response.status).toBe(200);\r\n    expect(response.body).toHaveProperty(\"id\", taskId);\r\n    expect(response.body).toHaveProperty(\"title\", \"Test Smoke Task\");\r\n  });\r\n\r\n  // 7. Ana varlık güncelleme (Update) (PATCH /tasks/:id) → 200\r\n  it(\"7. Update task should return 200 and update the field\", async () => {\r\n    const response = await request(app)\r\n      .patch(`/api/tasks/${taskId}`)\r\n      .set(\"Authorization\", `Bearer ${authToken}`)\r\n      .send({\r\n        title: \"Updated Smoke Task Title\",\r\n        status: \"in_progress\",\r\n      });\r\n\r\n    expect(response.status).toBe(200);\r\n    expect(response.body).toHaveProperty(\"title\", \"Updated Smoke Task Title\");\r\n    expect(response.body).toHaveProperty(\"status\", \"in_progress\");\r\n  });\r\n\r\n  // 8. Ana varlık silme (Delete) (DELETE /tasks/:id) → 204\r\n  it(\"8a. Delete task should return 204\", async () => {\r\n    const response = await request(app)\r\n      .delete(`/api/tasks/${taskId}`)\r\n      .set(\"Authorization\", `Bearer ${authToken}`);\r\n\r\n    expect(response.status).toBe(204);\r\n  });\r\n\r\n  it(\"8b. Getting deleted task should return 404\", async () => {\r\n    const response = await request(app)\r\n      .get(`/api/tasks/${taskId}`)\r\n      .set(\"Authorization\", `Bearer ${authToken}`);\r\n\r\n    expect(response.status).toBe(404);\r\n  });\r\n\r\n  // 9. Validation (hatalı istek): geçersiz veri → 400\r\n  it(\"9. Create task with invalid data should return 400\", async () => {\r\n    const response = await request(app)\r\n      .post(\"/api/tasks\")\r\n      .set(\"Authorization\", `Bearer ${authToken}`)\r\n      .send({\r\n        title: \"\", // Empty title should fail validation\r\n        status: \"todo\",\r\n      });\r\n\r\n    expect(response.status).toBe(400);\r\n  });\r\n\r\n  // 10a. Admin-only endpoint: user ile → 403\r\n  it(\"10a. Access admin endpoint as regular user should return 403\", async () => {\r\n    const response = await request(app)\r\n      .get(\"/api/admin/dashboard\")\r\n      .set(\"Authorization\", `Bearer ${authToken}`);\r\n\r\n    expect(response.status).toBe(403);\r\n  });\r\n\r\n  // 10b. Admin-only endpoint: admin ile → 200\r\n  it(\"10b. Access admin endpoint as admin should return 200\", async () => {\r\n    // Use seed admin user (admin@example.com / admin1)\r\n    const loginResponse = await request(app)\r\n      .post(\"/api/auth/login\")\r\n      .send({\r\n        email: \"admin@example.com\",\r\n        password: \"admin1\",\r\n      });\r\n\r\n    expect(loginResponse.status).toBe(200);\r\n    adminToken = loginResponse.body.data.token;\r\n\r\n    const response = await request(app)\r\n      .get(\"/api/admin/dashboard\")\r\n      .set(\"Authorization\", `Bearer ${adminToken}`);\r\n\r\n    expect(response.status).toBe(200);\r\n  });\r\n\r\n  // Additional test: Login with wrong password\r\n  it(\"Login with wrong password should return error\", async () => {\r\n    const response = await request(app)\r\n      .post(\"/api/auth/login\")\r\n      .send({\r\n        email: testUserEmail,\r\n        password: \"WrongPassword123!\",\r\n      });\r\n\r\n    expect([400, 401]).toContain(response.status);\r\n  });\r\n\r\n  // Additional test: Logout\r\n  it(\"Logout should return 200\", async () => {\r\n    const response = await request(app)\r\n      .post(\"/api/auth/logout\")\r\n      .set(\"Authorization\", `Bearer ${authToken}`);\r\n\r\n    expect(response.status).toBe(200);\r\n  });\r\n});\r\n",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\tests\\unit\\auth.service.test.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\tests\\unit\\tasks.service.test.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 19,
+                "column": 102,
+                "messageId": "unexpectedAny",
+                "endLine": 19,
+                "endColumn": 105,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                733,
+                                736
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                733,
+                                736
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 20,
+                "column": 107,
+                "messageId": "unexpectedAny",
+                "endLine": 20,
+                "endColumn": 110,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                847,
+                                850
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                847,
+                                850
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 30,
+                "column": 80,
+                "messageId": "unexpectedAny",
+                "endLine": 30,
+                "endColumn": 83,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                1235,
+                                1238
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                1235,
+                                1238
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 38,
+                "column": 70,
+                "messageId": "unexpectedAny",
+                "endLine": 38,
+                "endColumn": 73,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                1553,
+                                1556
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                1553,
+                                1556
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 51,
+                "column": 70,
+                "messageId": "unexpectedAny",
+                "endLine": 51,
+                "endColumn": 73,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                2174,
+                                2177
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                2174,
+                                2177
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 58,
+                "column": 85,
+                "messageId": "unexpectedAny",
+                "endLine": 58,
+                "endColumn": 88,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                2520,
+                                2523
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                2520,
+                                2523
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 67,
+                "column": 70,
+                "messageId": "unexpectedAny",
+                "endLine": 67,
+                "endColumn": 73,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                2930,
+                                2933
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                2930,
+                                2933
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 68,
+                "column": 85,
+                "messageId": "unexpectedAny",
+                "endLine": 68,
+                "endColumn": 88,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                3021,
+                                3024
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                3021,
+                                3024
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 84,
+                "column": 70,
+                "messageId": "unexpectedAny",
+                "endLine": 84,
+                "endColumn": 73,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                3749,
+                                3752
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                3749,
+                                3752
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 90,
+                "column": 70,
+                "messageId": "unexpectedAny",
+                "endLine": 90,
+                "endColumn": 73,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                4049,
+                                4052
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                4049,
+                                4052
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-explicit-any",
+                "severity": 2,
+                "message": "Unexpected any. Specify a different type.",
+                "line": 99,
+                "column": 70,
+                "messageId": "unexpectedAny",
+                "endLine": 99,
+                "endColumn": 73,
+                "suggestions": [
+                    {
+                        "messageId": "suggestUnknown",
+                        "fix": {
+                            "range": [
+                                4435,
+                                4438
+                            ],
+                            "text": "unknown"
+                        },
+                        "desc": "Use `unknown` instead, this will force you to explicitly, and safely assert the type is correct."
+                    },
+                    {
+                        "messageId": "suggestNever",
+                        "fix": {
+                            "range": [
+                                4435,
+                                4438
+                            ],
+                            "text": "never"
+                        },
+                        "desc": "Use `never` instead, this is useful when instantiating generic type parameters that you don't need to know the type of."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 11,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import { describe, it, expect, vi, beforeEach } from \"vitest\";\r\nimport { taskService } from \"../../modules/tasks/task.service\";\r\nimport { taskRepository } from \"../../repositories/task.repository\";\r\nimport type { AuthUser } from \"../../types/auth.types\";\r\n\r\n// Veritabanına gerçekten gitmemek için Repository'i mock'luyoruz\r\nvi.mock(\"../../repositories/task.repository\", () => ({\r\n  taskRepository: {\r\n    findAllByOwnerId: vi.fn(),\r\n    findById: vi.fn(),\r\n    create: vi.fn(),\r\n    update: vi.fn(),\r\n    delete: vi.fn(),\r\n  },\r\n}));\r\n\r\ndescribe(\"Task Service Unit Tests\", () => {\r\n  // 1. DÜZELTME: \"username\" alanlarını ekledik\r\n  const mockUser: AuthUser = { id: 1, email: \"user1@example.com\", username: \"user1\", role: \"user\" as any };\r\n  const mockOtherUser: AuthUser = { id: 2, email: \"user2@example.com\", username: \"user2\", role: \"user\" as any };\r\n  const mockTask = { id: 1, title: \"Test\", description: \"Test desc\", status: \"todo\", ownerId: 1 };\r\n\r\n  // Her testten önce mock'ları temizle\r\n  beforeEach(() => {\r\n    vi.clearAllMocks();\r\n  });\r\n\r\n  // 1. Başarılı listeleme\r\n  it(\"list() -> kullanıcının kendi görevlerini getirmeli\", async () => {\r\n    vi.mocked(taskRepository.findAllByOwnerId).mockResolvedValue([mockTask] as any);\r\n    const tasks = await taskService.list(mockUser);\r\n    expect(tasks).toHaveLength(1);\r\n    expect(tasks[0].id).toBe(1);\r\n  });\r\n\r\n  // 2. Başarılı tekil okuma\r\n  it(\"getById() -> görev kullanıcıya aitse başarıyla getirmeli\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(mockTask as any);\r\n    const task = await taskService.getById(mockUser, 1);\r\n    expect(task.title).toBe(\"Test\");\r\n  });\r\n\r\n  // 3. Bulunamama hatası (Olmayan ID)\r\n  it(\"getById() -> görev veritabanında yoksa 'Task not found' hatası fırlatmalı\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(undefined);\r\n    await expect(taskService.getById(mockUser, 999)).rejects.toThrow(\"Task not found\");\r\n  });\r\n\r\n  // 4. Yetki hatası (Başkasının görevi)\r\n  it(\"getById() -> görev başkasına aitse 'Task not found' hatası fırlatmalı\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(mockTask as any);\r\n    await expect(taskService.getById(mockOtherUser, 1)).rejects.toThrow(\"Task not found\");\r\n  });\r\n\r\n  // 5. Başarılı oluşturma\r\n  it(\"create() -> yeni bir görev oluşturmalı\", async () => {\r\n    const input = { title: \"Yeni\", description: \"Yeni desc\" };\r\n    vi.mocked(taskRepository.create).mockResolvedValue({ ...mockTask, ...input } as any);\r\n    const task = await taskService.create(mockUser, input);\r\n    expect(task.title).toBe(\"Yeni\");\r\n    expect(taskRepository.create).toHaveBeenCalledWith(1, input);\r\n  });\r\n\r\n  // 6. Başarılı güncelleme\r\n  it(\"update() -> görev kullanıcıya aitse başarıyla güncellemeli\", async () => {\r\n    const input = { status: \"done\" as const };\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(mockTask as any);\r\n    vi.mocked(taskRepository.update).mockResolvedValue({ ...mockTask, ...input } as any);\r\n    \r\n    const task = await taskService.update(mockUser, 1, input);\r\n    \r\n    // 2. DÜZELTME: task?.status diyerek (optional chaining) TypeScript'i rahatlattık\r\n    expect(task?.status).toBe(\"done\"); \r\n  });\r\n\r\n  // 7. Güncelleme bulamama hatası\r\n  it(\"update() -> güncellenecek görev yoksa 'Task not found' hatası fırlatmalı\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(undefined);\r\n    await expect(taskService.update(mockUser, 999, {})).rejects.toThrow(\"Task not found\");\r\n  });\r\n\r\n  // 8. Güncelleme yetki hatası\r\n  it(\"update() -> başkasının görevini güncellerken 'Task not found' hatası fırlatmalı\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(mockTask as any);\r\n    await expect(taskService.update(mockOtherUser, 1, {})).rejects.toThrow(\"Task not found\");\r\n  });\r\n\r\n  // 9. Başarılı silme\r\n  it(\"remove() -> görev kullanıcıya aitse silme işlemini veritabanına iletmeli\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(mockTask as any);\r\n    vi.mocked(taskRepository.delete).mockResolvedValue(true);\r\n    \r\n    await taskService.remove(mockUser, 1);\r\n    expect(taskRepository.delete).toHaveBeenCalledWith(1);\r\n  });\r\n\r\n  // 10. Silme yetki hatası\r\n  it(\"remove() -> başkasının görevini silerken 'Task not found' hatası fırlatmalı\", async () => {\r\n    vi.mocked(taskRepository.findById).mockResolvedValue(mockTask as any);\r\n    await expect(taskService.remove(mockOtherUser, 1)).rejects.toThrow(\"Task not found\");\r\n  });\r\n});",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\types\\auth.types.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\types\\note.types.ts",
+        "messages": [
+            {
+                "ruleId": "@typescript-eslint/no-empty-object-type",
+                "severity": 2,
+                "message": "An interface declaring no members is equivalent to its supertype.",
+                "line": 9,
+                "column": 18,
+                "messageId": "noEmptyInterfaceWithSuper",
+                "endLine": 9,
+                "endColumn": 33,
+                "suggestions": [
+                    {
+                        "messageId": "replaceEmptyInterfaceWithSuper",
+                        "fix": {
+                            "range": [
+                                125,
+                                177
+                            ],
+                            "text": "type CreateNoteInput = CreateTaskInput"
+                        },
+                        "desc": "Replace empty interface with a type alias."
+                    }
+                ]
+            },
+            {
+                "ruleId": "@typescript-eslint/no-empty-object-type",
+                "severity": 2,
+                "message": "An interface declaring no members is equivalent to its supertype.",
+                "line": 11,
+                "column": 18,
+                "messageId": "noEmptyInterfaceWithSuper",
+                "endLine": 11,
+                "endColumn": 33,
+                "suggestions": [
+                    {
+                        "messageId": "replaceEmptyInterfaceWithSuper",
+                        "fix": {
+                            "range": [
+                                188,
+                                240
+                            ],
+                            "text": "type UpdateNoteInput = UpdateTaskInput"
+                        },
+                        "desc": "Replace empty interface with a type alias."
+                    }
+                ]
+            }
+        ],
+        "suppressedMessages": [],
+        "errorCount": 2,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "import type {\r\n  CreateTaskInput,\r\n  Task,\r\n  UpdateTaskInput,\r\n} from \"./task.types\";\r\n\r\nexport type Note = Task;\r\n\r\nexport interface CreateNoteInput extends CreateTaskInput {}\r\n\r\nexport interface UpdateNoteInput extends UpdateTaskInput {}",
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\types\\task.types.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\utils\\app-error.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\utils\\hash.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\utils\\jwt.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\mvturkmen\\Desktop\\github\\taskboard\\src\\utils\\token-hash.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    }
+]
