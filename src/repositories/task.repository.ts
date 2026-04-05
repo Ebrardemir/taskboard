@@ -56,6 +56,15 @@ const run = (
   });
 
 export const taskRepository = {
+  async findAll(): Promise<Task[]> {
+    const rows = await getAll<any>(
+      `SELECT id, title, description, status, owner_id, created_at, updated_at
+       FROM tasks
+       ORDER BY id DESC`,
+    );
+    return rows.map(mapTaskRow);
+  },
+
   async findAllByOwnerId(ownerId: number): Promise<Task[]> {
     const rows = await getAll<any>(
       `SELECT id, title, description, status, owner_id, created_at, updated_at
