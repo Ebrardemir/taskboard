@@ -145,27 +145,27 @@ Test kapsamı:
 ## API Endpointleri
 
 ### Auth — `/api/auth`
-| Method | Endpoint    | Aciklama                  |
-|--------|-------------|---------------------------|
-| POST   | /register   | Yeni kullanici olustur    |
-| POST   | /login      | Giris yap, JWT don        |
-| POST   | /logout     | Token'i blacklist'e ekle  |
+| Method | Endpoint  | Aciklama                 |
+| ------ | --------- | ------------------------ |
+| POST   | /register | Yeni kullanici olustur   |
+| POST   | /login    | Giris yap, JWT don       |
+| POST   | /logout   | Token'i blacklist'e ekle |
 
 ### Tasks — `/api/tasks` (auth gerekli)
-| Method | Endpoint  | Aciklama                      |
-|--------|-----------|-------------------------------|
-| GET    | /         | Kullanicinin gorevlerini listele |
-| GET    | /:id      | Tek gorev getir               |
-| POST   | /         | Yeni gorev olustur            |
-| PATCH  | /:id      | Gorevi guncelle               |
-| DELETE | /:id      | Gorevi sil                    |
+| Method | Endpoint | Aciklama                         |
+| ------ | -------- | -------------------------------- |
+| GET    | /        | Kullanicinin gorevlerini listele |
+| GET    | /:id     | Tek gorev getir                  |
+| POST   | /        | Yeni gorev olustur               |
+| PATCH  | /:id     | Gorevi guncelle                  |
+| DELETE | /:id     | Gorevi sil                       |
 
 ### Admin — `/api/admin` (auth + admin rol gerekli)
-| Method | Endpoint    | Aciklama                      |
-|--------|-------------|-------------------------------|
-| GET    | /dashboard  | Admin erisim kontrolu         |
-| GET    | /users      | Tum kullanicilari listele     |
-| GET    | /tasks      | Tum gorevleri listele         |
+| Method | Endpoint   | Aciklama                  |
+| ------ | ---------- | ------------------------- |
+| GET    | /dashboard | Admin erisim kontrolu     |
+| GET    | /users     | Tum kullanicilari listele |
+| GET    | /tasks     | Tum gorevleri listele     |
 
 ---
 
@@ -181,13 +181,14 @@ Test kapsamı:
 
 `npm run seed` komutu su kullanicilari ekler:
 
-| Email                  | Sifre   | Rol   |
-|------------------------|---------|-------|
-| ebrar@example.com      | ebrar1  | user  |
-| bengu@example.com      | bengu1  | user  |
-| gizem@example.com      | gizem1  | user  |
-| oya@example.com        | oya1    | user  |
-| admin@example.com      | admin1  | admin |
+| Email                 | Sifre     | Rol   |
+| --------------------- | --------- | ----- |
+| ebrar@example.com     | ebrar1    | user  |
+| bengu@example.com     | bengu1    | user  |
+| gizem@example.com     | gizem1    | user  |
+| oya@example.com       | oya1      | user  |
+| mvturkmen@example.com | mvturkmen | user  |
+| admin@example.com     | admin1    | admin |
 
 > Seed veri silmez. Kullanici zaten varsa tekrar eklemez.
 
