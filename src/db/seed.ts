@@ -27,6 +27,12 @@ const seedUsers = [
     role: "user",
   },
   {
+    username: "mvturkmen",
+    email: "mvturkmen@example.com",
+    password: "mvturkmen",
+    role: "user",
+  },
+  {
     username: "admin",
     email: "admin@example.com",
     password: "admin1",
@@ -54,8 +60,13 @@ export const seedDatabase = async (): Promise<void> => {
       const passwordHash = await hashPassword(user.password);
 
       await run(
-        `INSERT OR IGNORE INTO users (username, email, password_hash, role)
-         VALUES (?, ?, ?, ?)`,
+        `INSERT INTO users (username, email, password_hash, role)
+         VALUES (?, ?, ?, ?)
+         ON CONFLICT(email) DO UPDATE SET
+           username = excluded.username,
+           password_hash = excluded.password_hash,
+           role = excluded.role,
+           updated_at = CURRENT_TIMESTAMP`,
         [user.username, user.email, passwordHash, user.role],
       );
     }
