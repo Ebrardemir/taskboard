@@ -1,0 +1,72 @@
+{
+    "component": {
+        "key": "YazilimKaliteGuvencesiTaskboard",
+        "name": "YazilimKaliteGuvencesiTaskboard",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "1484"
+            },
+            {
+                "metric": "bugs",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "sqale_index",
+                "value": "2",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "193"
+            },
+            {
+                "metric": "cognitive_complexity",
+                "value": "102",
+                "bestValue": false
+            },
+            {
+                "metric": "sqale_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "duplicated_lines_density",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "sqale_debt_ratio",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "vulnerabilities",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_hotspots",
+                "value": "12",
+                "bestValue": false
+            },
+            {
+                "metric": "code_smells",
+                "value": "1",
+                "bestValue": false
+            }
+        ]
+    }
+}

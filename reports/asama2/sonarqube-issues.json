@@ -1,14 +1,62 @@
 {
-    "total": 0,
+    "total": 1,
     "p": 1,
     "ps": 500,
     "paging": {
         "pageIndex": 1,
         "pageSize": 500,
-        "total": 0
+        "total": 1
     },
-    "effortTotal": 0,
-    "issues": [],
-    "components": [],
+    "effortTotal": 2,
+    "issues": [
+        {
+            "key": "AZ3KUHMNDhXSPjI3KhBm",
+            "rule": "typescript:S1128",
+            "severity": "MINOR",
+            "component": "YazilimKaliteGuvencesiTaskboard:src/tests/unit/business-rules.test.ts",
+            "project": "YazilimKaliteGuvencesiTaskboard",
+            "line": 2,
+            "hash": "d42f5051c2be777ba6e4b8b72818427d",
+            "textRange": {
+                "startLine": 2,
+                "endLine": 2,
+                "startOffset": 9,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this unused import of \u0027z\u0027.",
+            "effort": "2min",
+            "debt": "2min",
+            "author": "116903192+oyailgina@users.noreply.github.com",
+            "tags": [
+                "es2015",
+                "unused"
+            ],
+            "creationDate": "2026-04-05T15:13:57+0000",
+            "updateDate": "2026-04-26T15:01:52+0000",
+            "type": "CODE_SMELL",
+            "scope": "MAIN",
+            "quickFixAvailable": true,
+            "messageFormattings": []
+        }
+    ],
+    "components": [
+        {
+            "key": "YazilimKaliteGuvencesiTaskboard:src/tests/unit/business-rules.test.ts",
+            "enabled": true,
+            "qualifier": "FIL",
+            "name": "business-rules.test.ts",
+            "longName": "src/tests/unit/business-rules.test.ts",
+            "path": "src/tests/unit/business-rules.test.ts"
+        },
+        {
+            "key": "YazilimKaliteGuvencesiTaskboard",
+            "enabled": true,
+            "qualifier": "TRK",
+            "name": "YazilimKaliteGuvencesiTaskboard",
+            "longName": "YazilimKaliteGuvencesiTaskboard"
+        }
+    ],
     "facets": []
 }
