@@ -7,7 +7,7 @@ describe("Smoke Tests - Critical Application Flows", () => {
   let adminToken = "";
   let taskId = 0;
 
-  
+
   const timestamp = Date.now();
   const testUserEmail = `smoketest${timestamp}@example.com`;
 
@@ -42,7 +42,7 @@ describe("Smoke Tests - Critical Application Flows", () => {
     expect(response.body.data).toHaveProperty("user");
     expect(response.body.data.user).toHaveProperty("id");
     expect(typeof response.body.data.token).toBe("string");
-    
+
     authToken = response.body.data.token;
   });
 
@@ -69,7 +69,7 @@ describe("Smoke Tests - Critical Application Flows", () => {
     expect(response.body).toHaveProperty("id");
     expect(response.body).toHaveProperty("title", "Test Smoke Task");
     expect(response.body).toHaveProperty("status", "todo");
-    
+
     taskId = response.body.id;
   });
 
@@ -82,9 +82,9 @@ describe("Smoke Tests - Critical Application Flows", () => {
     expect(response.status).toBe(200);
     expect(Array.isArray(response.body)).toBe(true);
     expect(response.body.length).toBeGreaterThan(0);
-    
+
     // Check if created task is in list
-    const createdTask = response.body.find((t: any) => t.id === taskId);
+    const createdTask = response.body.find((t: unknown) => (t as Record<string, unknown>).id === taskId);
     expect(createdTask).toBeDefined();
   });
 

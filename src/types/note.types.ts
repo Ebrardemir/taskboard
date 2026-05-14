@@ -6,6 +6,6 @@ import type {
 
 export type Note = Task;
 
-export interface CreateNoteInput extends CreateTaskInput {}
+export type CreateNoteInput = CreateTaskInput;
 
-export interface UpdateNoteInput extends UpdateTaskInput {}
+export type UpdateNoteInput = UpdateTaskInput;

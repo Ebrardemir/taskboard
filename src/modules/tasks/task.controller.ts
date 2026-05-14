@@ -1,4 +1,4 @@
-import type { NextFunction,Request, Response } from "express";
+import type { NextFunction, Request, Response } from "express";
 
 import type { AuthUser } from "../../types/auth.types";
 import { taskService } from "./task.service";
@@ -21,8 +21,8 @@ export const taskController = {
       const taskId = Number(req.params.id);
       const task = await taskService.getById(getUser(req), taskId);
       return res.status(200).json(task);
-    } catch (error: any) {
-      if (error.message === "Task not found") {
+    } catch (error: unknown) {
+      if (error instanceof Error && error.message === "Task not found") {
         return res.status(404).json({ message: "Task not found" });
       }
       next(error);
@@ -45,8 +45,8 @@ export const taskController = {
       const input = updateTaskSchema.parse(req.body);
       const task = await taskService.update(getUser(req), taskId, input);
       return res.status(200).json(task);
-    } catch (error: any) {
-      if (error.message === "Task not found") {
+    } catch (error: unknown) {
+      if (error instanceof Error && error.message === "Task not found") {
         return res.status(404).json({ message: "Task not found" });
       }
       next(error);
@@ -58,8 +58,8 @@ export const taskController = {
       const taskId = Number(req.params.id);
       await taskService.remove(getUser(req), taskId);
       return res.status(204).send();
-    } catch (error: any) {
-      if (error.message === "Task not found") {
+    } catch (error: unknown) {
+      if (error instanceof Error && error.message === "Task not found") {
         return res.status(404).json({ message: "Task not found" });
       }
       next(error);

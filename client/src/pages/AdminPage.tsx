@@ -16,19 +16,21 @@ export function AdminPage() {
   const [search, setSearch] = useState('');
   const [loading, setLoading] = useState(true);
 
-  if (user?.role !== 'admin') return <Navigate to="/dashboard" replace />;
-
   useEffect(() => {
     const load = async () => {
       try {
         const [u, t] = await Promise.all([adminApi.getUsers(), adminApi.getAllTasks()]);
         setUsers(u);
         setTasks(t);
-      } catch {}
+      } catch {
+        /* API hatası - intentionally empty */
+      }
       setLoading(false);
     };
     load();
   }, []);
+
+  if (user?.role !== 'admin') return <Navigate to="/dashboard" replace />;
 
   const taskCountFor = (userId: number) => tasks.filter((t) => t.ownerId === userId).length;
 

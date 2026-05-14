@@ -5,13 +5,13 @@ import { db } from "../config/db";
 
 const getTableColumns = (tableName: string): Promise<string[]> => {
   return new Promise((resolve, reject) => {
-    db.all(`PRAGMA table_info(${tableName})`, [], (err, rows: any[]) => {
+    db.all(`PRAGMA table_info(${tableName})`, [], (err, rows: unknown[]) => {
       if (err) {
         reject(err);
         return;
       }
 
-      resolve(rows.map((row) => String(row.name)));
+      resolve(rows.map((row) => String((row as Record<string, unknown>).name)));
     });
   });
 };

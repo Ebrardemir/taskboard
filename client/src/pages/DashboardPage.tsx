@@ -17,7 +17,9 @@ export function DashboardPage() {
     try {
       const data = await tasksApi.getAll();
       setTasks(data);
-    } catch {}
+    } catch {
+      /* API hatası - intentionally empty */
+    }
     setLoading(false);
   };
 

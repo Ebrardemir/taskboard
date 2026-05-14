@@ -6,15 +6,18 @@ import type {
   UpdateTaskInput,
 } from "../types/task.types";
 
-const mapTaskRow = (row: any): Task => ({
-  id: Number(row.id),
-  title: String(row.title),
-  description: String(row.description),
-  status: row.status as TaskStatus,
-  ownerId: Number(row.owner_id),
-  createdAt: String(row.created_at),
-  updatedAt: String(row.updated_at),
-});
+const mapTaskRow = (row: unknown): Task => {
+  const r = row as Record<string, unknown>;
+  return {
+    id: Number(r.id),
+    title: String(r.title),
+    description: String(r.description),
+    status: r.status as TaskStatus,
+    ownerId: Number(r.owner_id),
+    createdAt: String(r.created_at),
+    updatedAt: String(r.updated_at),
+  };
+};
 
 const getOne = <T>(sql: string, params: unknown[] = []): Promise<T | undefined> =>
   new Promise((resolve, reject) => {
@@ -57,7 +60,7 @@ const run = (
 
 export const taskRepository = {
   async findAll(): Promise<Task[]> {
-    const rows = await getAll<any>(
+    const rows = await getAll<unknown>(
       `SELECT id, title, description, status, owner_id, created_at, updated_at
        FROM tasks
        ORDER BY id DESC`,
@@ -66,7 +69,7 @@ export const taskRepository = {
   },
 
   async findAllByOwnerId(ownerId: number): Promise<Task[]> {
-    const rows = await getAll<any>(
+    const rows = await getAll<unknown>(
       `SELECT id, title, description, status, owner_id, created_at, updated_at
        FROM tasks
        WHERE owner_id = ?
@@ -78,7 +81,7 @@ export const taskRepository = {
   },
 
   async findById(id: number): Promise<Task | undefined> {
-    const row = await getOne<any>(
+    const row = await getOne<unknown>(
       `SELECT id, title, description, status, owner_id, created_at, updated_at
        FROM tasks
        WHERE id = ?`,

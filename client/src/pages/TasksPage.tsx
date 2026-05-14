@@ -25,7 +25,9 @@ export function TasksPage() {
     try {
       const data = await tasksApi.getAll();
       setTasks(data);
-    } catch {}
+    } catch {
+      /* API hatası - intentionally empty */
+    }
     setLoading(false);
   };
 
@@ -77,11 +79,10 @@ export function TasksPage() {
               <button
                 key={f.value}
                 onClick={() => setFilter(f.value)}
-                className={`px-3 py-1.5 rounded-lg text-[12px] font-medium transition-colors ${
-                  filter === f.value
+                className={`px-3 py-1.5 rounded-lg text-[12px] font-medium transition-colors ${filter === f.value
                     ? 'bg-[#3B82F6] text-white'
                     : 'bg-white dark:bg-[#122040] border border-[#B5D4F4] dark:border-[#1E3A5F] text-[#185FA5] dark:text-[#7BA3D4] hover:border-[#3B82F6]'
-                }`}
+                  }`}
               >
                 {f.label}
               </button>
