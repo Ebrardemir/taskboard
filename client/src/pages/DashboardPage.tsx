@@ -13,17 +13,19 @@ export function DashboardPage() {
   const [editingTask, setEditingTask] = useState<Task | undefined>();
   const [defaultStatus, setDefaultStatus] = useState<TaskStatus>('todo');
 
-  const fetchTasks = async () => {
-    try {
-      const data = await tasksApi.getAll();
-      setTasks(data);
-    } catch {
-      /* API hatası - intentionally empty */
-    }
-    setLoading(false);
-  };
-
-  useEffect(() => { fetchTasks(); }, []);
+  useEffect(() => {
+    tasksApi
+      .getAll()
+      .then((data) => {
+        setTasks(data);
+      })
+      .catch(() => {
+        /* API hatası - intentionally empty */
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+  }, []);
 
   const openCreate = (status: TaskStatus = 'todo') => {
     setEditingTask(undefined);

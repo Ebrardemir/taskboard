@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import type { User } from '../types';
+import type { User, Task } from '../types';
 import { adminApi } from '../api/admin';
 import { Header } from '../components/layout/Header';
 import { StatCard } from '../components/ui/StatCard';

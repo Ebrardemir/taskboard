@@ -21,17 +21,19 @@ export function TasksPage() {
   const [modalOpen, setModalOpen] = useState(false);
   const [editingTask, setEditingTask] = useState<Task | undefined>();
 
-  const fetchTasks = async () => {
-    try {
-      const data = await tasksApi.getAll();
-      setTasks(data);
-    } catch {
-      /* API hatası - intentionally empty */
-    }
-    setLoading(false);
-  };
-
-  useEffect(() => { fetchTasks(); }, []);
+  useEffect(() => {
+    tasksApi
+      .getAll()
+      .then((data) => {
+        setTasks(data);
+      })
+      .catch(() => {
+        /* API hatası - intentionally empty */
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+  }, []);
 
   const openCreate = () => { setEditingTask(undefined); setModalOpen(true); };
   const openEdit = (task: Task) => { setEditingTask(task); setModalOpen(true); };
