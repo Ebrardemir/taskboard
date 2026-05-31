@@ -1,0 +1,704 @@
+[
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\app.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\config\\db.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\config\\env.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\db\\init.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\db\\run-seed.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\db\\seed.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\express.d.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\middleware\\auth.middleware.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\middleware\\error.middleware.ts",
+        "messages": [],
+        "suppressedMessages": [
+            {
+                "ruleId": "@typescript-eslint/no-unused-vars",
+                "severity": 2,
+                "message": "'_next' is defined but never used.",
+                "line": 11,
+                "column": 3,
+                "messageId": "unusedVar",
+                "endLine": 11,
+                "endColumn": 8,
+                "suppressions": [
+                    {
+                        "kind": "directive",
+                        "justification": ""
+                    }
+                ]
+            }
+        ],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\middleware\\role.middleware.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\admin\\admin.controller.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\admin\\admin.routes.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\auth\\auth.controller.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\auth\\auth.routes.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\auth\\auth.service.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\auth\\auth.validation.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\tasks\\task.controller.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\tasks\\task.routes.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\tasks\\task.service.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\modules\\tasks\\task.validation.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\repositories\\note.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\repositories\\revoked-token.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\repositories\\task.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\repositories\\user.repository.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\server.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\tests\\smoke\\smoke.test.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\tests\\unit\\auth.service.test.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\tests\\unit\\business-rules.test.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\tests\\unit\\tasks.service.test.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\types\\auth.types.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\types\\note.types.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\types\\task.types.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\utils\\app-error.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\utils\\hash.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\utils\\jwt.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\src\\utils\\token-hash.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\App.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\api\\admin.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\api\\auth.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\api\\axios.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\api\\tasks.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\layout\\Header.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\layout\\Layout.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\layout\\Sidebar.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\tasks\\KanbanColumn.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\tasks\\TaskCard.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\tasks\\TaskModal.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\ui\\Avatar.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\ui\\Badge.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\components\\ui\\StatCard.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\context\\AuthContext.tsx",
+        "messages": [],
+        "suppressedMessages": [
+            {
+                "ruleId": "react-refresh/only-export-components",
+                "severity": 2,
+                "message": "Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components.",
+                "line": 55,
+                "column": 14,
+                "nodeType": "Identifier",
+                "messageId": "namedExport",
+                "endLine": 55,
+                "endColumn": 21,
+                "suppressions": [
+                    {
+                        "kind": "directive",
+                        "justification": ""
+                    }
+                ]
+            }
+        ],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\context\\ThemeContext.tsx",
+        "messages": [],
+        "suppressedMessages": [
+            {
+                "ruleId": "react-refresh/only-export-components",
+                "severity": 2,
+                "message": "Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components.",
+                "line": 28,
+                "column": 14,
+                "nodeType": "Identifier",
+                "messageId": "namedExport",
+                "endLine": 28,
+                "endColumn": 22,
+                "suppressions": [
+                    {
+                        "kind": "directive",
+                        "justification": ""
+                    }
+                ]
+            }
+        ],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\main.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\pages\\AdminPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\pages\\DashboardPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\pages\\LoginPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\pages\\RegisterPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\pages\\TasksPage.tsx",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    },
+    {
+        "filePath": "C:\\Users\\ibb\\Documents\\GitHub\\taskboard\\client\\src\\types\\index.ts",
+        "messages": [],
+        "suppressedMessages": [],
+        "errorCount": 0,
+        "fatalErrorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules": []
+    }
+]
